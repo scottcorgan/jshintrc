@@ -18,6 +18,7 @@ My jshint style
   "boss": true,
   "eqnull": true,
   "node": true,
+  "laxbreak": true,
   "globals": {
     "require": true,
     "module": true,
