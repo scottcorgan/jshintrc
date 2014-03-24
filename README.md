@@ -6,7 +6,7 @@ My jshint style
 ```json
 {
   "expr": true,
-  "curly": true,
+  "curly": false,
   "eqeqeq": true,
   "immed": true,
   "latedef": false,
