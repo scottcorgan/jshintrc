@@ -10,7 +10,7 @@ My jshint style
   "eqeqeq": true,
   "immed": true,
   "latedef": false,
-  "newcap": true,
+  "newcap": false,
   "noarg": true,
   "sub": true,
   "undef": true,
